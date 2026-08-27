@@ -1,10 +1,11 @@
-# 💫 About Me:
-🔭 I’m currently working on Python, Generative AI & Web Development
-👯 I’m looking to collaborate on Open Source, Python & AI projects
-🤝 I’m looking for help with Advanced Python, APIs & Generative AI
-🌱 I’m currently learning Python, API Testing, HTML/CSS & Generative AI
-💬 Ask me about Python, API Testing, HTML/CSS & Generative AI
-⚡ Fun fact: I love exploring new technologies and building real-world projects 🚀
+### 💫 About Me:
+🎓 Recent B.Tech Computer Science graduate passionate about full-stack development and cloud security<br>
+🌱 I'm currently learning to strengthen my skills in **Azure, AWS, and Agentic AI**<br>
+👯 I'm looking to collaborate on **DevSecOps tools, CI/CD automation, and full-stack web projects**<br>
+🤝 I'm looking for help with **scaling side projects, open-source best practices, and Agentic AI workflows**<br>
+💬 Ask me about **Node.js, REST APIs, Docker, GitHub Actions, or Azure security (AZ-500)**<br>
+📫 Reach me at **ritikkatiyar2712@gmail.com**<br>
+⚡ Fun fact: I built a tool that scans code for leaked secrets — now I'm just as paranoid about my own commits
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Ritik.katiyar333) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ritikkatiyar333) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/katiyar-ritik) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ritikkatiyar2712@gmail.com) 
